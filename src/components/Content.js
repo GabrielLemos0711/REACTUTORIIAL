@@ -5,8 +5,7 @@ const Content = () => {
     return (
         <Box sx={{
             background: "#389",
-            width: 500,
-            height: 500,
+            
             alignItems:'center'
         }}>
             <h2>Content</h2>

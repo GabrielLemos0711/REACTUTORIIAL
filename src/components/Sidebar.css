@@ -1,0 +1,8 @@
+@media (max-width: 600px)
+{
+  .Sidebar
+   {
+    display: inline;
+    background-color: aqua;
+   }
+}
